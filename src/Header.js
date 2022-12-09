@@ -15,13 +15,13 @@ function Header() {
                     <p class="lead">Software development student at SAIT (Southern Alberta Institute of Technology).</p>
 
                     <ul class="list-inline">
-                        <li class="list-inline-item my-2"><a href="#" class="fs-5 link-light text-decoration-none"><i
+                        <li class="list-inline-item my-2"><a href="malito: buola.achor@edu.sait.ca?" subject="subject text" class="fs-5 link-light text-decoration-none"><i
                                     class="bi bi-envelope pe-1"></i>
                                 <span class="text-center">E-mail</span></a></li>
-                        <li class="list-inline-item my-2"><a href="#" class="fs-5 link-light text-decoration-none"><i
+                        <li class="list-inline-item my-2"><a href="https://www.linkedin.com/in/buola-achor-b4578622a/" class="fs-5 link-light text-decoration-none"><i
                                     class="bi bi-linkedin pe-1"></i>
                                 LinkedIn</a></li>
-                        <li class="list-inline-item my-2"><a href="#" class="fs-5 link-light text-decoration-none"><i
+                        <li class="list-inline-item my-2"><a href="https://github.com/BuolaA" class="fs-5 link-light text-decoration-none"><i
                                     class="bi bi-github pe-1"></i>
                                 GitHub</a></li>
                     </ul>
