@@ -1,10 +1,12 @@
+import logo from './image.jpg';
+
 function Header() {
     return (
         <header class="text-white bg-dark">
         <div class="container py-5">
             <div class="row">
                 <div class="col-xs-3 col-lg-2 text-center">
-                    <img src="https://www.seekpng.com/png/detail/110-1100707_person-avatar-placeholder.png"
+                    <img src={logo} 
                         alt="Person - Avatar Placeholder@seekpng.com" class="border border-5 rounded-circle img-fluid" style= {{width: '150px', height: '150px'}}/>
                 </div>
                 <div class="col text-center text-lg-start">
